@@ -1,0 +1,18 @@
+{
+    "version": "0.0.1",
+    "name": "cordova-plugin-android-audio-recording",
+    "description": "record audio at android",
+    "cordova": {
+        "id": "cordova-plugin-android-audio-recording",
+        "platforms": [
+            "android"
+        ]
+    },
+    "keywords": [
+        "cordova",
+        "audio",
+        "cordova-android"
+    ],
+    "engines": []
+  }
+  
